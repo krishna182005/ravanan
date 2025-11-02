@@ -1,4 +1,4 @@
-# TermLynx
+
 *.pyc
 __pycache__/
 *.pyo
@@ -17,3 +17,4 @@ ENV/
 .idea/
 *.log
 config.ini
+
