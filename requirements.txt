@@ -1,0 +1,8 @@
+# Ravanan - The 10-Headed Web Browser
+# Created by: Krishna D
+# Dependencies
+
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+rich>=13.0.0
+lxml>=4.9.0

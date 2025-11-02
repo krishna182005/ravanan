@@ -1,0 +1,19 @@
+# TermLynx
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+ENV/
+.env
+.vscode/
+.idea/
+*.log
+config.ini

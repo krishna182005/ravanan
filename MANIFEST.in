@@ -1,0 +1,38 @@
+# MANIFEST.in - Include additional files in the package
+
+# Include documentation
+include README.md
+include LICENSE
+include CHANGELOG.md
+include CONTRIBUTING.md
+include QUICKSTART.md
+include FEATURES.md
+include GETTING_STARTED.md
+include QUICK_REFERENCE.txt
+
+# Include requirements
+include requirements.txt
+
+# Include configuration examples
+include config.ini.example
+
+# Include test files
+include test.py
+include test_ravanan.py
+
+# Exclude unnecessary files
+exclude demo.py
+exclude stats.py
+exclude run.bat
+exclude run.sh
+exclude PROJECT_SUMMARY.md
+exclude TRANSFORMATION_SUMMARY.txt
+
+# Exclude Python bytecode and cache
+global-exclude __pycache__
+global-exclude *.py[cod]
+global-exclude *$py.class
+global-exclude *.so
+
+# Exclude git files
+global-exclude .git*
