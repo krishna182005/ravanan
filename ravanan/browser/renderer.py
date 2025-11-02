@@ -10,7 +10,7 @@ from rich.panel import Panel
 from rich.table import Table
 from rich import box
 from typing import List, Dict, Tuple
-from utils.banner import RavananBanner
+from ..utils.banner import RavananBanner
 
 
 class TextRenderer:
