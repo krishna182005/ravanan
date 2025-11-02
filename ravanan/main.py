@@ -12,10 +12,10 @@ Created by: Krishna D
 import sys
 import argparse
 import os
-from browser.fetcher import WebFetcher
-from browser.parser import HTMLParser
-from browser.renderer import TextRenderer
-from browser.navigator import Navigator
+from .browser.fetcher import WebFetcher
+from .browser.parser import HTMLParser
+from .browser.renderer import TextRenderer
+from .browser.navigator import Navigator
 
 
 class Ravanan:
