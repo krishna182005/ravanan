@@ -3,7 +3,7 @@ Navigator Module
 Manages page navigation and link selection
 """
 from typing import List, Dict, Optional
-from utils.history import BrowsingHistory
+from ..utils.history import BrowsingHistory
 
 
 class Navigator:
