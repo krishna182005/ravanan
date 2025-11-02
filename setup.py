@@ -13,7 +13,7 @@ long_description = (here / "README.md").read_text(encoding="utf-8")
 
 setup(
     name="ravanan",
-    version="1.0.0",
+    version="1.0.1",
     description="The 10-Headed Web Browser - A powerful text-based browser for the terminal",
     long_description=long_description,
     long_description_content_type="text/markdown",
@@ -60,7 +60,7 @@ setup(
     
     entry_points={
         "console_scripts": [
-            "ravanan=main:main",
+            "ravanan=ravanan:main",
         ],
     },
     
