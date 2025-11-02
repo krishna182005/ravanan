@@ -490,9 +490,9 @@ Vote for features or suggest new ones in [GitHub Issues](https://github.com/kris
 ## 📧 Contact & Support
 
 - **Creator**: Krishna D
-- **GitHub**: [https://github.com/krishnad/ravanan](https://github.com/krishnad/ravanan)
-- **Issues**: [Report a bug or request a feature](https://github.com/krishnad/ravanan/issues)
-- **Discussions**: [Join the community](https://github.com/krishnad/ravanan/discussions)
+- **GitHub**: [https://github.com/krishna182005/ravanan/](https://github.com/krishna182005/ravanan/)
+- **Issues**: [Report a bug or request a feature](https://github.com/krishna182005/ravanan/)
+- **Discussions**: [Join the community](https://github.com/krishna182005/discussions)
 
 ---
 
@@ -517,4 +517,5 @@ If you find Ravanan useful, please consider giving it a star on GitHub! ⭐
 - **Python Version**: 3.8+
 - **Platforms**: Windows, Linux, macOS
 - **License**: MIT (Open Source)
+
 
