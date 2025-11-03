@@ -75,7 +75,7 @@ ravanan
 
 ```bash
 # Clone the repository
-git clone https://github.com/krishnad/ravanan.git
+git clone https://github.com/krishna182005/ravanan.git
 cd ravanan
 
 # Install dependencies
@@ -89,7 +89,7 @@ python main.py
 
 ```bash
 # Clone the repository
-git clone https://github.com/krishnad/ravanan.git
+git clone https://github.com/krishna182005/ravanan.git
 cd ravanan
 
 # Install in editable mode
@@ -362,7 +362,7 @@ We love your input! We want to make contributing to Ravanan as easy and transpar
 1. **Fork the repository** on GitHub
 2. **Clone your fork** locally:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/ravanan.git
+   git clone https://github.com/krishna182005/ravanan.git
    cd ravanan
    ```
 3. **Create a feature branch**:
@@ -384,7 +384,7 @@ We love your input! We want to make contributing to Ravanan as easy and transpar
 
 ```bash
 # Clone the repository
-git clone https://github.com/krishnad/ravanan.git
+git clone https://github.com/krishna182005/ravanan.git
 cd ravanan
 
 # Create a virtual environment (optional but recommended)
@@ -473,7 +473,7 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
 ### Community Requested
 
-Vote for features or suggest new ones in [GitHub Issues](https://github.com/krishnad/ravanan/issues)!
+Vote for features or suggest new ones in [GitHub Issues](https://github.com/krishna182005/ravanan/issues)!
 
 ---
 
@@ -491,7 +491,7 @@ Vote for features or suggest new ones in [GitHub Issues](https://github.com/kris
 
 - **Creator**: Krishna D
 - **GitHub**: [https://github.com/krishna182005/ravanan/](https://github.com/krishna182005/ravanan/)
-- **Issues**: [Report a bug or request a feature](https://github.com/krishna182005/ravanan/)
+- **Issues**: [Report a bug or request a feature](https://github.com/krishna182005/ravanan/issues)
 - **Discussions**: [Join the community](https://github.com/krishna182005/discussions)
 
 ---
@@ -517,5 +517,6 @@ If you find Ravanan useful, please consider giving it a star on GitHub! ⭐
 - **Python Version**: 3.8+
 - **Platforms**: Windows, Linux, macOS
 - **License**: MIT (Open Source)
+
 
 
